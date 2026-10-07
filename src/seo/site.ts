@@ -1,8 +1,8 @@
 // Single source of truth for business facts used in page copy, meta tags,
 // structured data, sitemap.xml, robots.txt and llms.txt.
-// When the custom domain is connected, change `url` below and push.
+// If the domain ever changes, update `url` below and push.
 export const SITE = {
-  url: "https://ibadan-safe-ride-main.vercel.app",
+  url: "https://www.safetypluscarhire.com",
   name: "Safety Plus Car Hire",
   alternateName: "Safety Plus Car Hire Services",
   tagline: "Your Safe Ride, Anytime in Ibadan & Lagos",
